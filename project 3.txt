@@ -1,0 +1,25 @@
+# International NGO Funding Benchmark Dashboard
+
+## Overview
+This Power BI dashboard compares financial structures of major international NGOs including UNICEF, IFRC, Save the Children, and World Vision.
+
+## Objective
+- Compare income and expenditure across NGOs
+- Examine funding mix (public vs private)
+- Evaluate program spending ratios
+- Analyze financial trends
+
+## Tools
+Power BI  
+Excel  
+DAX
+
+## Key Insights
+- UNICEF operates at the largest financial scale.
+- Funding structures vary across organizations.
+- Program spending ratios exceed 80% across NGOs.
+
+## Files Included
+Power BI dashboard (.pbix)  
+Dataset (.xlsx)  
+Dashboard screenshots
